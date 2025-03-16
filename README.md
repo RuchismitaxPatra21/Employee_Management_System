@@ -21,7 +21,7 @@ The Employee Management System (EMS) is a software solution designed to manage e
 1. **Clone the Repository**  
    ```bash
    git clone https://github.com/RuchismitaxPatra21/Employee-Management-System.git
-   cd employee-management-system
+   cd Employee-Management-System
    ```  
 2. **Set Up Database**  
    - Create a MySQL/PostgreSQL database  
